@@ -1,12 +1,12 @@
 # 👋 Hello, I'm ANKIT SRIVASTAV
 
-## 💼 Technology Consultant - SAP Solution Architect
+## 💼 SAP Technology Consultant
 
 🚀 Passionate about creating innovative SAP solutions and enhancing business processes.
 
 ### 🔧 Technologies I Work With
 
-🖥️ SAP ABAP | 💡 ABAP on HANA | ☁️ ABAP Cloud
+🖥️ SAP ABAP on HANA | 💡 RESTful ABAP | ☁️ ABAP Cloud  
 
 ### 📚 Constantly Learning
 
@@ -14,9 +14,7 @@ I'm always eager to stay at the forefront of SAP technology and am currently del
 
 ### 📫 How to Reach Me
 
-📎 LinkedIn:
+📎 LinkedIn: [Ankit Srivastav](https://www.linkedin.com/in/srivastav-ankit)
 
-✉️ Email: 
-
-Feel free to reach out for discussions, collaborations, or inquiries at . Together, we can explore the endless possibilities within the SAP ecosystem!
+Feel free to reach out for discussions, or collaborations. Together, we can explore the endless possibilities within the SAP ecosystem!
 
